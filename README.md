@@ -1,4 +1,4 @@
-# Template Repository for Unity2D version 2019.1.14f1
+# inclass-webgl
 
 ### Project description: 
 Introduction/Project summary 
