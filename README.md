@@ -1,7 +1,7 @@
 # inclass-webgl
 
 ### Project description: 
-Simple project to test WebGL workflow. 
+Simple non interactable project to test WebGL workflow. 
 Create Unity 2D project (Canvas, Text), Switch Platform to WebGL, build WebGL into docs folder, push repository, modify settings for GitHub Pages on GitHub repository site. 
 
 ### Development platform: 
@@ -15,6 +15,10 @@ WebGL, reference resolution 960 x 600
 <div>
 <img src = "./Screenshots/sc-webgl.jpg" width = "500">
 </div>
+
+### Test it: 
+WebGL: https://5ahmnm1920mtin-3h.github.io/inclass-webgl-smeerws/
+
 ### Necessary setup/execution steps: 
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
